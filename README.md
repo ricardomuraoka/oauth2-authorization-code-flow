@@ -46,5 +46,5 @@ Run maven
 
 There are 3 endpoints:
 /callback - this is the endpoint that google will redirect to after the user has authenticated
-/login - this is the endpoint that will redirect the user to google for authentication
+/ - this is the endpoint that will redirect the user to google for authentication
 /token - this is the endpoint that will return the access token
