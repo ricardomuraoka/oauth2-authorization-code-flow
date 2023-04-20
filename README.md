@@ -48,3 +48,5 @@ There are 3 endpoints:
 /callback - this is the endpoint that google will redirect to after the user has authenticated
 / - this is the endpoint that will redirect the user to google for authentication
 /token - this is the endpoint that will return the access token
+
+access them by using localhost:8080/callback, localhost:8080/ and localhost:8080/token
